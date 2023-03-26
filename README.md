@@ -1,51 +1,60 @@
-# **Project Title**
+# **Digital Avometer using Arduino**
 
-A brief description of what this project does and who it's for
+This project aims to create a digital avometer using an Arduino board. The digital avometer is an electronic instrument that measures various electrical quantities such as voltage, current, resistance, and continuity.
 
 ## **Table of Contents**
 
-- **[Features](https://chat.openai.com/chat#features)**
-- **[Getting Started](https://chat.openai.com/chat#getting-started)**
-- **[Usage](https://chat.openai.com/chat#usage)**
-- **[Documentation](https://chat.openai.com/chat#documentation)**
-- **[Contributing](https://chat.openai.com/chat#contributing)**
-- **[License](https://chat.openai.com/chat#license)**
-- **[Contact](https://chat.openai.com/chat#contact)**
+- [Features](#Features)
+- [Getting Started](#Getting_Started)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Contact](#Contact)
 
 ## **Features**
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Measures voltage, current, and resistance
+- Has a continuity test feature
+- Digital display for easy reading of values
+- Portable and compact design
 
-## **Getting Started**
+## **Getting_Started**
 
 ### **Prerequisites**
 
-List any prerequisites that the user needs to have installed before they can use this project
+Before you start using this project, you will need the following:
+
+- Arduino board
+- Breadboard
+- Jumper wires
+- Resistors
+- LEDs
+- Transistors
+- Voltage regulator
+- LCD display
+- Potentiometer
 
 ### **Installation**
 
-Step-by-step instructions on how to install this project
+1.Connect the voltage regulator to the Arduino board to regulate the input voltage
+2.Connect the LCD display to the Arduino board using the potentiometer
+3.Connect the resistors, LEDs, and transistors to the breadboard to measure voltage, current, and resistance
+4.Connect the continuity test feature to the breadboard
+5.Upload the code to the Arduino board
 
 ## **Usage**
 
-How to use this project, including examples and screenshots
-
+After installing the project, you can use it to measure various electrical quantities such as voltage, current, and resistance. The digital display makes it easy to read the values.
+![Practical results test case 1]("E:\Documents\ASU\Junior_Mechatronics\T2\electronics\PROJECT\final\Digital-Avometer-using-Arduino\test case 1.png")
 ## **Documentation**
 
-Links to any relevant documentation, including user manuals and technical documentation
+[Arduino Board Documentation](https://www.arduino.cc/en/Guide/Introduction)
+[LCD Display Documentation](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)
+[Transistor Documentation](https://www.onsemi.com/pdf/datasheet/tip120-d.pdf)
 
-## **Contributing**
-
-Guidelines for contributing to this project, including a code of conduct and information on how to submit pull requests
-
-## **License**
-
-Information about the license for this project
 
 ## **Contact**
 
-- **[Your Name](https://chat.openai.com/your-email-address.com)** - Email address
-- **[GitHub](https://github.com/yourusername)** - GitHub profile link
-- **[LinkedIn](https://www.linkedin.com/in/yourusername/)** - LinkedIn profile link
+- **[Eslam S Rady](mailto:Eselmtrawy@gmail.com)** - Email address
+- **[GitHub](https://github.com/Esmtra)** - GitHub profile link
+- **[LinkedIn](https://www.linkedin.com/in/eslam-mtra-1714201b7/)** - LinkedIn profile link
