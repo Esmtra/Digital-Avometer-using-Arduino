@@ -10,6 +10,8 @@ This project aims to create a digital avometer using an Arduino board. The digit
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Contact](#Contact)
+- [Test_Case](#Test_Case)
+
 
 ## **Features**
 
@@ -51,6 +53,12 @@ After installing the project, you can use it to measure various electrical quant
 [Arduino Board Documentation](https://www.arduino.cc/en/Guide/Introduction)
 [LCD Display Documentation](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)
 [Transistor Documentation](https://www.onsemi.com/pdf/datasheet/tip120-d.pdf)
+
+## **Test_Case**
+![Digital avometer test case1](https://github.com/Esmtra/Digital-Avometer-using-Arduino/blob/main/test_case_1.png "Digital avometer test case1")
+![Digital avometer test case2](https://github.com/Esmtra/Digital-Avometer-using-Arduino/blob/main/test_case2.png "Digital avometer test case2")
+
+
 
 
 ## **Contact**
